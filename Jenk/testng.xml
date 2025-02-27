@@ -5,6 +5,7 @@
     <classes>
       <class name="pack2.ClassB"/>
       <class name="pack1.ClassA"/>
+      <class name="pack1.Class1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
